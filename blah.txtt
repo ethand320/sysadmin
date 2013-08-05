@@ -1,0 +1,9 @@
+ 
+define service {\
+					service_description	name\
+					use 		    	asdf\
+					address				asdf \
+					host_name			asdf\
+					host_group			asdf\
+					servicegroups		asdf\
+				}
