@@ -1,21 +1,20 @@
-
 import csv
 
 
 #############################################
-#
+# 2013 Written by Ethan Drower
+#   
+# Script to parse phone records
+# Meant for reconcilliation of accounts
+# Phone Migration Project
 #   
 #
-#
-#   
-#   
-#
-# Input files
+# Input files:
 #
 #voip_service.txt
 #LoopnPhones_forBAT.txt
 
-#Output Files
+#Output Files:
 #
 #DN_Numbers.out
 #Model7692.out
