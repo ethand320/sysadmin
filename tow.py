@@ -1,4 +1,9 @@
 #!/usr/bin/python
+
+
+#Script to check licnese plate against chicago's towing database
+#will add user input eventually. and email support.
+
 import sys
 import smtplib
 import re
